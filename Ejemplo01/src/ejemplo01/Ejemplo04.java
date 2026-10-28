@@ -14,9 +14,11 @@ public class Ejemplo04 {
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;
-        System.out.print(nombreEstudiante + " ");
-        System.out.print(apellidoEstudiante + " ");
-        System.out.print(nacimiento + " ");
-        System.out.print(nombreEstudiante + " ");
+        System.out.print(nombreEstudiante);
+        System.out.print(apellidoEstudiante);
+        System.out.print(nacimiento);
+        System.out.print(nombreEstudiante);
     }
 }
+//El System.out.print me sirve para presentar informacion en una sola linea
+//sirve para mostrar nensajes o resultado en pantalla dando salto de linea
