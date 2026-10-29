@@ -53,13 +53,12 @@ public class Ejemplo3 {
         edad = 2026 - anioNacimiento;
         
         System.out.printf("Asignatura 1: %s\nNota 1:%.2f\nAsignatura 2:%s\n "
-                + "Nota 2: %.2f\nNombre de estudiante: %s\nAño de nacimiento: %s\nCiudad: %s\nEdad: %s\n; ",
+                + "Nota 2: %.2f\nNombre de estudiante: %s\nCiudad de Nacimiento: %s\nEdad: %s\n; ",
                 nombreAsignatura1,
                 notaAsignatura1,
                 nombreAsignatura2,
                 notaAsignatura2,
                 nombreEstudiante,
-                anioNacimiento,
                 ciudad,
                 edad);
                 
